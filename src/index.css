@@ -1,0 +1,50 @@
+/*css añadido*/
+body {
+  font-family: sans-serif;
+  background-color: #f3f4f6;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+li {
+  background: white;
+  border-radius: 10px;
+  padding: 15px;
+  width: 250px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  text-align: left;
+}
+
+img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+h3 {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  color: #0077cc;
+}
+
+p {
+  font-size: 0.9rem;
+  color: #555;
+}
