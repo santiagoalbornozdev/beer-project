@@ -73,3 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # beer-project
 pequeño proyecto para mejorar el uso de las API'S
 >>>>>>> 6d2a1bd45b0cee2f660a9013a77917acceeca83c
+#Primera version de beer-project
